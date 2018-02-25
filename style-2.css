@@ -1,0 +1,66 @@
+header {
+  background: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/wildflower-field-at-sunset-modern-impressionist-oil-palette-knife-painting-patricia-awapara.jpg");
+  background-size:cover;
+  height: 500px;
+  text-align: center;
+}
+
+
+header h1 {
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+
+}
+
+header img {
+  height: 30%;
+  width: 30%;
+  border: 5px solid white;
+  margin-top: 50px;
+}
+
+ul {
+  background-color: white;
+  padding: 20px;
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin: 20px;
+  
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #FFEFD5;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+div {
+  margin: 100px;
+}
