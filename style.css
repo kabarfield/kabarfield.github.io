@@ -1,5 +1,5 @@
 header {
-  background: url("https://i.pinimg.com/736x/dc/67/a2/dc67a225979969b8881dacd4371f6ee2--paint-flowers-wild-flowers.jpg");
+  background: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/wildflower-field-at-sunset-modern-impressionist-oil-palette-knife-painting-patricia-awapara.jpg");
   background-size:cover;
   height: 500px;
   text-align: center;
@@ -7,8 +7,7 @@ header {
 
 
 header h1 {
-  color: black;
-  margin: 20px;
+  color: white;
   font-family: 'Abril Fatface', cursive;
 
 }
@@ -52,12 +51,14 @@ a:hover, a:active {
 h1 {
   font-size: 50px;
   font-family: 'Abril Fatface', cursive;
+  text-align: center;
 }
 
 p {
   font-size: 18px;
   line-height: 1.6;
   font-family: 'Montserrat', sans-serif;
+  text-align: center;
 }
 
 div {
