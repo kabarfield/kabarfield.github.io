@@ -1,34 +1,57 @@
 header {
-  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Glorious-blue-mountain-range.jpg/1280px-Glorious-blue-mountain-range.jpg");
+  background: url("https://i.pinimg.com/736x/dc/67/a2/dc67a225979969b8881dacd4371f6ee2--paint-flowers-wild-flowers.jpg");
+  background-size:cover;
+  height: 500px;
   text-align: center;
 }
 
 
 header h1 {
-  color: white;
+  color: black;
+  margin: 20px;
+  font-family: 'Abril Fatface', cursive;
+
 }
 
 header img {
   height: 30%;
   width: 30%;
   border: 5px solid white;
-  border-radius: 50%;
   margin-top: 50px;
 }
 
 ul {
-  background-color: #AFB8CC;
+  background-color: white;
   padding: 20px;
+  font-family: 'Poiret One', cursive;
+  text-align: center;
 }
 
 li {
   display: inline;
   margin: 20px;
+  
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #FFEFD5;
 }
 
 h1 {
   font-size: 50px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Abril Fatface', cursive;
 }
 
 p {
